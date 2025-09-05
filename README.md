@@ -1,3 +1,5 @@
+👉 [Click here to read the full Problem Statement](./Problem-Statement.md)
+
 # 🍔 Food Delivery Application  
 
 A **Spring Boot Application** built on **Microservices Architecture** that simulates an end-to-end food delivery system. It leverages **Spring Cloud components**, **Kafka**, and **JWT authentication** to ensure scalability, security, and seamless inter-service communication.  
